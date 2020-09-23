@@ -84,7 +84,7 @@ header("location:index.php?page=home");
   							<input type="text" id="username" name="username" class="form-control">
   						</div>
 <div class="form-group">
-  							<label for="username" class="control-label">name</label>
+  							<label for="username" class="control-label">Lastame</label>
   							<input type="text" id="username" name="username" class="form-control">
   						</div>
   						<center><button class="btn-sm btn-block btn-wave col-md-4 btn-primary">Login</button></center>
