@@ -83,7 +83,7 @@ header("location:index.php?page=home");
   							<label for="username" class="control-label">Firstname</label>
   							<input type="text" id="username" name="username" class="form-control">
   						</div>
-  						<center><button class="btn-sm btn-block btn-wave col-md-4 btn-primary">singup</button></center>
+  						<center><button class="btn-sm btn-block btn-wave col-md-4 btn-primary">singingup</button></center>
   					</form>
   				</div>
   			</div>
