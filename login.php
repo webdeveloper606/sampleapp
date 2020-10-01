@@ -80,7 +80,7 @@ header("location:index.php?page=home");
   							<input type="password" id="password" name="password" class="form-control">
   						</div>
 					
-  						<center><button class="btn-sm btn-block btn-wave col-md-4 btn-primary">singingup</button></center>
+  						<center><button class="btn-sm btn-block btn-wave col-md-4 btn-primary">Login</button></center>
   					</form>
   				</div>
   			</div>
