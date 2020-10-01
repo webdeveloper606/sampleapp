@@ -72,7 +72,7 @@ header("location:index.php?page=home");
   				<div class="card-body">
   					<form id="login-form" >
   						<div class="form-group">
-  							<label for="username" class="control-label">Username</label>
+  							<label for="username" class="control-label">First Username</label>
   							<input type="text" id="username" name="username" class="form-control">
   						</div>
   						<div class="form-group">
