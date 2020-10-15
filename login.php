@@ -79,6 +79,10 @@ header("location:index.php?page=home");
   							<label for="password" class="control-label">Password</label>
   							<input type="password" id="password" name="password" class="form-control">
   						</div>
+						<div class="form-group">
+  							<label for="username" class="control-label"> Username</label>
+  							<input type="text" id="username" name="username" class="form-control">
+  						</div>
 					
   						<center><button class="btn-sm btn-block btn-wave col-md-4 btn-primary">Login</button></center>
   					</form>
